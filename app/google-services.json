@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "737941865263",
+    "firebase_url": "https://smartcook-f0005.firebaseio.com",
+    "project_id": "smartcook-f0005",
+    "storage_bucket": "smartcook-f0005.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737941865263:android:e76231af278614b3",
+        "android_client_info": {
+          "package_name": "smart.lytn.smartcook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "737941865263-t9heiugiu9uchg9981lnb29mo1bnrtha.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "smart.lytn.smartcook",
+            "certificate_hash": "d0d53491aa8ceb11e5a0f8224422630cd478a99b"
+          }
+        },
+        {
+          "client_id": "737941865263-414gsekjmesc8o7nek4ugsovu97t1fvf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5FFMEpQFONTfbyym6LeaUF2eG4v4JuWo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "737941865263-414gsekjmesc8o7nek4ugsovu97t1fvf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
